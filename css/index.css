@@ -1,0 +1,74 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css");
+
+body{
+margin-top:2rem;
+background-color: #2aa198;}
+
+.justify-content-end{
+margin-left: 65rem;}
+
+.nav-link{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size: medium;}
+
+.nav-link:hover{
+    color: pink;
+}
+
+.rounded{
+margin-top: 2rem;
+width: 25rem;
+}
+
+p{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#projects{
+background-color: #073642;
+margin-top: 3rem;
+margin-bottom: 5rem;
+}
+
+h4{
+color: white ;
+margin-top: 3rem;
+}
+
+.card{
+background-color: #073642 ;
+border-color: aliceblue;
+margin-bottom: 2rem;
+}
+
+.btn{
+background-color: pink;
+border-style: none;
+color: white;
+}
+
+.btn:hover{
+color: pink ;
+}
+
+.card-one{
+margin-left: 3rem;
+}
+
+.card-two{
+margin-left: 15rem;
+}
+
+#skills{
+background-color: #93a1a1 ;
+margin-bottom: 3rem;
+}
+
+h5{
+font-style: italic;
+}
+
+
+
